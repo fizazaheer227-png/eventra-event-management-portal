@@ -1,0 +1,6 @@
+{
+  "name": "Eventra",
+  "description": "Eventra - The modern event management portal to discover, register, create, and manage events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
